@@ -2,7 +2,7 @@
 
 
 > About Me:
-- 🏦 I'm a MLLM Pretrainer working for MuseAI team in Tencent Lyra Lab. 
+- 🏦 I am serving as an intern focused on multimodal large model pretraining within the MuseAI division of Tencent Lyra Lab. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
