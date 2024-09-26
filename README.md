@@ -14,7 +14,7 @@
 </picture>
 
 > About Me:
-- 🏦 I am serving as an intern focused on MLLM within the [MuseAI division of Tencent Lyra Lab](https://github.com/TMElyralab). 
+- 🏦 I am serving as an intern focused on MLLM within the [MuseAI of Tencent Lyra Lab](https://github.com/TMElyralab). 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
