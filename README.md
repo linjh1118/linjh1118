@@ -1,8 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Cody Lin. (林景豪)</h1>
 
+<h3 align="center">👀 I am interested in LLMs, particularly in the field of MLLM Pre-training, Post-training and LLM Agent, Role-playing, and I look forward to having a Jarvis-like assistant. <img src="https://media1.tenor.com/m/McY9R4_xYOIAAAAC/iron-man-tony-stark.gif" width="50"> </h3>
+
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=linjh1118&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=linjh1118&hide_border=true" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linjh1118/linjh1118/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linjh1118/linjh1118/output/github-contribution-grid-snake.svg">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/linjh1118/linjh1118/output/github-contribution-grid-snake.svg">
+</picture>
 
 > About Me:
-- 🏦 I am serving as an intern focused on multimodal large model pretraining within the MuseAI division of Tencent Lyra Lab. 
+- 🏦 I am serving as an intern focused on MLLM within the [MuseAI division of Tencent Lyra Lab](https://github.com/TMElyralab). 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
@@ -20,3 +32,6 @@
 </p>
 
 
+### Contact with me ~
+
+Wechat: linjh1118_nlp
