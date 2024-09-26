@@ -34,4 +34,4 @@
 
 ### Contact with me ~
 
-Wechat: linjh1118_nlp
+Wechat: [linjh1118_nlp](https://github.com/linjh1118/WisdoMentor/blob/main/resources/wechat.md)
