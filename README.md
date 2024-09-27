@@ -16,7 +16,7 @@
 > About Me:
 - 🏦 I am serving as an intern focused on MLLM within the [MuseAI of Tencent Lyra Lab](https://github.com/TMElyralab), and
   
-  will be interning with the [CogVLM team at Zhipu](https://github.com/THUDM/CogVLM2) soon.
+  will be interning within the [CogVLM team at Zhipu](https://github.com/THUDM/CogVLM2) soon.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
