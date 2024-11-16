@@ -14,6 +14,7 @@
 </picture>
 
 > About Me:
+- 🏠 Personal Homepage: [All about me](linjh1118.github.io).
 - 🏦 I am serving as an intern focused on MLLM within the [MuseAI of Tencent Lyra Lab](https://github.com/TMElyralab), and
   
   will be interning within the [CogVLM team at Zhipu](https://github.com/THUDM/CogVLM2) soon.
