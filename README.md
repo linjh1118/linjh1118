@@ -15,12 +15,8 @@
 
 > About Me:
 - 🏠 Personal Homepage: [All about me](https://linjh1118.github.io).
-- 🏦 I am serving as an intern focused on MLLM within the [MuseAI of Tencent Lyra Lab](https://github.com/TMElyralab), and
-  
-  will be interning within the [CogVLM team at Zhipu](https://github.com/THUDM/CogVLM2) soon.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 - 🏦 I am currently working at [CogVLM team of Zhipu](https://github.com/THUDM/CogVLM2), where I focus on MLLM Post-training. Previously, I had interned at [Tencent Lyra Lab](https://github.com/TMElyralab) on the MuseAI project, dedicated to the MLLM domain. I have also gained valuable experience while working at Baidu Ernie and China Telecom before my current role.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
 - 📖 I am currently reading ***Lei Jun: Unwavering Progress***.
