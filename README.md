@@ -14,7 +14,7 @@
 </picture>
 
 > About Me:
-- 🏠 Personal Homepage: [All about me](https://linjh1118.github.io).
+- 🏠 Personal Homepage: [⭐️All about me⭐️](https://linjh1118.github.io).
 - 🏦 I am currently working at [CogVLM team of Zhipu](https://github.com/THUDM/CogVLM2), where I focus on MLLM Post-training. 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - Previously, I had interned at [Tencent Lyra Lab](https://github.com/TMElyralab) on the MuseAI project, dedicated to the MLLM domain.
