@@ -14,11 +14,10 @@
 </picture>
 
 > About Me:
-- 🏠 Personal Homepage: [⭐️All about me⭐️](https://linjh1118.github.io).
-- 🏦 I am currently working at [CogVLM team of Zhipu](https://github.com/THUDM/CogVLM2), where I focus on MLLM Post-training. 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - Previously, I had interned at [Tencent Lyra Lab](https://github.com/TMElyralab) on the MuseAI project, dedicated to the MLLM domain.
-  - I have also gained valuable experience while working at [Baidu Ernie](https://github.com/PaddlePaddle/ERNIE) and China Telecom before my current role.
+- 🏠 Personal Homepage: [⭐️All about me⭐️](https://linjh1118.github.io).  
+- 🏦 I am currently interning at Microsoft Research Asia (MSRA), where I focus on RL for MLLM. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+  - Previously, I worked at the [CogVLM team of Zhipu](https://github.com/THUDM/CogVLM2), specializing in MLLM post-training.  
+  - I also completed internships at [Tencent Lyra Lab](https://github.com/TMElyralab) on the MuseAI project (MLLM domain), as well as at [Baidu Ernie](https://github.com/PaddlePaddle/ERNIE) and China Telecom.  
 
 - 📝 I regulary write technical articles in xiaohongshu and zhihu.
 - 💻 I use daily: **.ipynb**, **.py**, **.sh**,  **.md** ~
