@@ -3,7 +3,7 @@
 <h3 align="center">👀 I am interested in LLMs, particularly in the field of MLLM Pre-training, Post-training and LLM Agent, Role-playing, and I look forward to having a Jarvis-like assistant. <img src="https://media1.tenor.com/m/McY9R4_xYOIAAAAC/iron-man-tony-stark.gif" width="50"> </h3>
 
 <p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=linjh1118&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="50%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=linjh1118&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="44.8%"  src="https://github-readme-streak-stats.herokuapp.com/?user=linjh1118&hide_border=true" />
 </p>
 
